@@ -6,3 +6,9 @@ Support for logging in interactively with authinfo.
 ## Planned Features
 See https://github.com/nmbooker/postnews/issues?labels=feature for progress
 and features in latest version.
+
+## Copyright
+
+(c) 2013 Nicholas Booker
+
+License: The MIT License

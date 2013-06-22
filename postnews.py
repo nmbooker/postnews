@@ -4,6 +4,10 @@
 
 TODO: Allow attachments.
 TODO: Allow text encodings other than us-ascii
+
+Copyright (c) 2013 Nicholas Booker
+
+License: The MIT License
 """
 
 import sys
