@@ -11,4 +11,6 @@ and features in latest version.
 
 (c) 2013 Nicholas Booker
 
-License: The MIT License
+License: The GNU General Public License v2
+
+See the LICENSE file.
